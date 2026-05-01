@@ -1,7 +1,7 @@
 # Simple Voting Smart Contract
 
 ## Project Overview
-A decentralized voting smart contract where:
+A decentralized voting smart contract that allows candidates to be registered, votes to be cast, and results to be viewed off-chain and on-chain. Where:
 
 ## Project Structure
 
