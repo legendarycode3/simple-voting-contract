@@ -6,7 +6,7 @@
 * ****Struct:**** Sets the user or voter details in one collection.
 * ****addCandidate(string memory name):**** function that registers new candidates.
 * ****vote(uint _candidateId):**** Ensures that voters can only vote once and that votes are cast for valid candidates.
-* ****Event logs:****
+* ****Event logs:****  For tracking key user operation . A off-chain communication tool mechanism to record that something significant happened
 
 
 ## Foundry
