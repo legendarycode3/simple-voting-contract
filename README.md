@@ -44,9 +44,11 @@ A decentralized voting smart contract that allows candidates to be registered, v
    ```shell
     git clone https://github.com/legendarycode3/simple-voting-contract 
   ```
-   ```shell
-     cd simple-voting-contract 
-   ```
+  ```shell
+      cd simple-voting-contract 
+  ```
+2. Compile the smart contract:
+  
 
 
 ## 📋Contract Details
