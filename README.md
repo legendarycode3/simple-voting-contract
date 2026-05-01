@@ -4,6 +4,7 @@
 * ****Constructor:**** Sets the address that deploys the contract as the owner.
 * ****Mapping:**** For tracking who has votered using the address.
 * ****Struct:**** Sets the user or voter details in one collection.
+* ****addCandidate(string memory name):****
 
 
 ## Foundry
