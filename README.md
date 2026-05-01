@@ -33,6 +33,9 @@ A decentralized voting smart contract that allows candidates to be registered, v
 **NOTE (Use Remix IDE, for quick prototyping):** You can literally just copy the main contract source code and paste it on Remix IDE and learn along side how the code works while trying to build yours as you keep building.
 
 ## Usage
+### Building the Project (Using Remix IDE):
+
+### Building the Project (Using Foundry Development Kit)
 
 
 ## 📋Contract Details
