@@ -34,11 +34,12 @@ A decentralized voting smart contract that allows candidates to be registered, v
 
 ## Usage
 ### Building the Project (Using Remix IDE):
-* Copy the core smart contract file code `Voting.sol` to Remix IDE (a browser based IDE, for quick prototyping).
-* Create a new file for the project on your Remix IDE and paste , to learn and build along faster.
-* And then Compile the smart contract file you have created on Remix IDE.
+1. Copy the core smart contract file code `Voting.sol` to Remix IDE (a browser based IDE, for quick prototyping).
+2. Create a new file for the project on your Remix IDE and paste , to learn and build along faster.
+3. And then Compile the smart contract file you have created on Remix IDE.
 
-### Building the Project (Using Foundry Development Kit)
+### Building the Project (Using Foundry Development Kit) - only if you are good using foundry kit
+1. 
 
 
 ## 📋Contract Details
