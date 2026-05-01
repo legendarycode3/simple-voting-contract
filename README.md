@@ -32,6 +32,8 @@ A decentralized voting smart contract that allows candidates to be registered, v
 * ****`addCandidate(string memory name)`:**** Function that registers new candidates.
 * ****vote(uint _candidateId):**** Function that Ensures that voters can only vote once and that votes are cast for valid candidates.
 
+###  Variables:
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
