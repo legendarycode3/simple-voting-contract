@@ -1,15 +1,16 @@
 # Simple Voting Smart Contract
 
 ## Key Concepts Applied
-* ****Constructor:**** Sets the address that deploys the contract as the owner.
+* ****Data types:**** Defines the exact nature of data to be stored, ensuring the blockchain knows how to handle, compute, and store it efficiently.
 * ****Mapping:**** For tracking who has votered using the address and also using their Id.
 * ****Struct:**** Sets the user or voter details in one collection.
+* *****Constructor:**** Sets the address that deploys the contract as the owner.
 * ****addCandidate(string memory name):**** function that registers new candidates.
 * ****vote(uint _candidateId):**** Ensures that voters can only vote once and that votes are cast for valid candidates.
 * ****Event logs:****  For tracking key user operation . A off-chain communication tool mechanism to record that something significant happened.
 * ****public:****  Managed and executed tasks using public visibility specifier.
 * ****msg.sender:**** Recording who owns funds(e.g the owner).
-* ****Data types:****
+
 
 
 ## Foundry
