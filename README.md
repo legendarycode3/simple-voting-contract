@@ -39,18 +39,23 @@ A decentralized voting smart contract that allows candidates to be registered, v
 2. Create a new file for the project on your Remix IDE and paste , to learn and build along faster.
 3. And then Compile the smart contract file you have created on Remix IDE.
 
-### Building the Project (Using Foundry Development Kit) - only if you are good using foundry kit
+### Building the Project (Using Foundry Development Kit ) - only if you are good using foundry kit
 1. Clone the repository:
    ```shell
     git clone https://github.com/legendarycode3/simple-voting-contract 
   ```
-      ```shell
-      cd simple-voting-contract 
+  and then,
+```shell
+    cd simple-voting-contract 
   ```
+ 
 2. Compile the smart contract:
      ```shell
     forge build
   ```
+
+### Testing the contract ((Using Foundry Development Kit )
+
    
   
 
