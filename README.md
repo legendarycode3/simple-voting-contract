@@ -6,12 +6,9 @@ A decentralized voting smart contract that allows candidates to be registered, v
 * Voters can vote once per voters cast.
 * Voters data and voting status and results are tracked transparently off-chain(using event) and on-chain.
 
-## 📂 Project Structure (Files)
-* ****`Voting.sol`:**** Core contract implementing addCandidate and vote functions. 
-* ****`Voting.t.sol`:**** Unit Test (suite) containing tests to validate contract functionalities.
-
 ##  📌 Features
 * ****Candidate Registration:**** Only the owner can add candidates.
+* ****Secure Voting:**** 
 
 ## 🧠 Key Concepts Applied
 * ****Data types:**** Defines the exact nature of data to be stored, ensuring the blockchain knows how to handle, compute, and store it efficiently.
@@ -21,6 +18,10 @@ A decentralized voting smart contract that allows candidates to be registered, v
 * ****Event logs:****  For tracking key user operation . A off-chain communication tool mechanism to record that something significant happened.
 * ****public:****  Managed and executed tasks using public visibility specifier.
 * ****msg.sender:**** Recording who owns funds(e.g the owner).
+  
+## 📂 Project Structure (Files)
+* ****`Voting.sol`:**** Core contract implementing addCandidate and vote functions. 
+* ****`Voting.t.sol`:**** Unit Test (suite) containing tests to validate contract functionalities.
 
 ## Technology Stack (Technologies Used)
 * ****Solidity**** - The programming language for writing the Smart contracts.
@@ -28,7 +29,9 @@ A decentralized voting smart contract that allows candidates to be registered, v
 * ****Foundry(forge, cast, anvil)**** - Development framework and testing suite
 * ****Visual Studio Code**** Install this IDE only if you are using foundry development kit rather than "Remix IDE" which is for quick prototying.
 
+
 ## Getting Started
+
 ### Prerequisites
 * Solidity Compiler, Version ^0.8.18 or higher.
 * `Remix IDE` or `Foundry Development Kit`
