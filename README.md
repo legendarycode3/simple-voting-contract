@@ -40,7 +40,7 @@ A decentralized voting smart contract that allows candidates to be registered, v
 3. And then Compile the smart contract file you have created on Remix IDE.
 
 ### Building the Project (Using Foundry Development Kit) - only if you are good using foundry kit
-1. 
+1. Clone the repository:
 
 
 ## 📋Contract Details
