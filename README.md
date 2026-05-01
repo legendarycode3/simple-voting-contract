@@ -5,6 +5,7 @@
 * ****Mapping:**** For tracking who has votered using the address and also using their Id.
 * ****Struct:**** Sets the user or voter details in one collection.
 * ****addCandidate(string memory name):**** function that registers new candidates.
+* ****vote(uint _candidateId):**** Ensures that voters can only vote once and that votes are cast for valid candidates.
 
 
 ## Foundry
