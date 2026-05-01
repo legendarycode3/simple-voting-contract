@@ -74,6 +74,8 @@ Runing specific test:
     forge test --mt testFunctionName
    ```
 
+### How it works
+
 
 ## 📋Contract Details
 ### Functions:
@@ -85,6 +87,8 @@ Runing specific test:
 * ****`candidatesCount`****: Variable that tracks the total number of candidates registered in the contract.
 * ****`voters`****: Variable that tracks who has voted by address.
 * ****`candidates`****:  Variable that tracks who has voted by ID.
+
+### Usage Guide (How it works)
 
 ## Foundry
 
