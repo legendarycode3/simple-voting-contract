@@ -9,6 +9,7 @@
 * ****Event logs:****  For tracking key user operation . A off-chain communication tool mechanism to record that something significant happened.
 * ****public:****  Managed and executed tasks using public visibility specifier.
 * ****msg.sender:**** Recording who owns funds(e.g the owner).
+* ****Data types:****
 
 
 ## Foundry
