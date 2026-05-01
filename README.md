@@ -33,7 +33,8 @@ A decentralized voting smart contract that allows candidates to be registered, v
 * ****`vote(uint _candidateId)`:**** Function that Ensures that voters can only vote once and that votes are cast for valid candidates.
 
 ###  Variables:
-* ****`i_owner`****: Immutable variable storing the owner’s address. 
+* ****`i_owner`****: Immutable variable storing the owner’s address.
+* ****`candidatesCount`****:
 
 ## Foundry
 
