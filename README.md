@@ -29,6 +29,7 @@ A decentralized voting smart contract that allows candidates to be registered, v
 ## Usage
 
 
+## 📋Contract Details
 
 ## Foundry
 
