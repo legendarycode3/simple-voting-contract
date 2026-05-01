@@ -30,9 +30,10 @@ A decentralized voting smart contract that allows candidates to be registered, v
 ## 📋Contract Details
 ### Functions:
 * ****`addCandidate(string memory name)`:**** Function that registers new candidates.
-* ****vote(uint _candidateId):**** Function that Ensures that voters can only vote once and that votes are cast for valid candidates.
+* ****`vote(uint _candidateId)`:**** Function that Ensures that voters can only vote once and that votes are cast for valid candidates.
 
 ###  Variables:
+* ****`i_owner`****: Immutable variable storing the owner’s address. 
 
 ## Foundry
 
