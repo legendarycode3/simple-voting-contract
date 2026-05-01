@@ -28,7 +28,8 @@ A decentralized voting smart contract that allows candidates to be registered, v
 ### Prerequisites
 * Solidity Compiler, Version ^0.8.18 or higher.
 * `Remix IDE` or `Foundry Development Kit`
-  
+
+### Recommendation (For Beginners)
 **NOTE (Use Remix IDE, for quick prototyping):** You can literally just copy the main contract source code and paste it on Remix IDE and learn along side how the code works while trying to build yours as you keep building.
 
 ## Usage
