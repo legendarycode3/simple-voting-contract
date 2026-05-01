@@ -116,14 +116,16 @@ $ forge fmt
 ```shell
 $ forge snapshot
 
-## ✍ Author
-Built with ❤️ by @legendarycode3
-
-
-## 🙏 If you find this project helpful, please give it a star and link back to this repository.
-
 ### Help
 
 ```shell
 $ forge --help
 ```
+
+## Author
+Built with ❤️ by @legendarycode3
+Part of my  `60 Days of Solidity Challenge`
+
+## 🤲 If you find this project helpful, please give it a star and link back to this repository.
+
+
