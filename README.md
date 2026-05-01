@@ -23,6 +23,8 @@ A decentralized voting smart contract that allows candidates to be registered, v
 
 ## Technology Stack (Technologies Used)
 * ****Solidity**** - The programming language for writing the Smart contracts.
+* 
+* ****Foundry(forge, cast, anvil)**** - 
 
 
 
