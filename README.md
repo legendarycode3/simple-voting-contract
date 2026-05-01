@@ -11,7 +11,7 @@ A decentralized voting smart contract that allows candidates to be registered, v
 * ****`Voting.t.sol`:**** Unit Test (suite) containing tests to validate contract functionalities.
 
 ##  📌 Features
-* Candidate Registration: 
+* ****Candidate Registration:**** Only the owner can add candidates.
 
 ## 🧠 Key Concepts Applied
 * ****Data types:**** Defines the exact nature of data to be stored, ensuring the blockchain knows how to handle, compute, and store it efficiently.
