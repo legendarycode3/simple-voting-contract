@@ -1,7 +1,8 @@
 # Simple Voting Smart Contract
 
 ## Key Concepts Applied
-* Mapping: For storing voter and proposal records.
+* ****Mapping:**** For tracking who has votered using the address.
+* ****Struct:****
 
 ## Foundry
 
