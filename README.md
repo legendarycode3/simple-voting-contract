@@ -86,11 +86,14 @@ Runing specific test:
 * ****`voters`****: Variable that tracks who has voted by address.
 * ****`candidates`****:  Variable that tracks who has voted by ID.
 
-## Usage Guide (How it works) & Why this Voting Contract Matters 
+## Usage Guide (How it works) 
 1. ****Compile****: Compile the contract.
 2. ****Deployment****: Add candidates using addCandidate("Name") represented in an array format and  deploy the VotingSystem contract (deployer becomes owner). You can only deploy only when you added atleast a name , which is specified on the contructor which must run first .
 3. ****Voting****:  Users call vote(candidateId) to cast their vote. Each address can vote only once.
 4. ****addCandidate****: New candidate can be added , after the initial candidate that was added before deployment commenced.
+
+## Why This Matters (Voting Smart Contract)
+Voting smart contracts are crucial in the Web3 blockchain ecosystem because they:
 
 ## Foundry
 
