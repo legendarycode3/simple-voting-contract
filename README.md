@@ -87,7 +87,7 @@ Runing specific test:
 * ****`candidates`****:  Variable that tracks who has voted by ID.
 
 ## Usage Guide (How it works) & Why this Voting Contract Matters 
-1. ****Deployment****: 
+1. ****Deployment****: Compile and deploy the VotingSystem contract (deployer becomes owner). 
 
 ## Foundry
 
