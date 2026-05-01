@@ -2,7 +2,7 @@
 
 ## Key Concepts Applied
 * ****Mapping:**** For tracking who has votered using the address.
-* ****Struct:****
+* ****Struct:**** Sets the user or voter details in one collection.
 
 ## Foundry
 
