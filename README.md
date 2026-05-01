@@ -3,6 +3,7 @@
 ## Project Overview
 A decentralized voting smart contract that allows candidates to be registered, votes to be cast, and results to be viewed off-chain and on-chain. Where:
 * Any user can register as a voter.
+* Voters can vote once per proposal.
 
 ## Project Structure
 
