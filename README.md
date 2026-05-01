@@ -62,7 +62,7 @@ A decentralized voting smart contract that allows candidates to be registered, v
     forge build
   ```
 
-### Testing the contract (Using Foundry Development Kit ) </br>
+### Testing the contract (Using Foundry Development Kit ) 
 
 Runing all tests:
    ```shell
@@ -73,8 +73,6 @@ Runing specific test:
    ```shell
     forge test --mt testFunctionName
    ```
-
-### How it works
 
 
 ## 📋Contract Details
@@ -88,7 +86,8 @@ Runing specific test:
 * ****`voters`****: Variable that tracks who has voted by address.
 * ****`candidates`****:  Variable that tracks who has voted by ID.
 
-### Usage Guide (How it works)
+## Usage Guide (How it works) & Why this Voting Contract Matters 
+1. ****Deployment****: 
 
 ## Foundry
 
@@ -101,8 +100,6 @@ Foundry consists of (Some include):
 ## Documentation
 
 https://book.getfoundry.sh/
-
-## Usage
 
 ### Build
 
