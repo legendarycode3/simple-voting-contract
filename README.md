@@ -8,7 +8,7 @@ A decentralized voting smart contract that allows candidates to be registered, v
 
 ## Project Structure
 * ****`Voting.sol`:**** Core contract implementing addCandidate and vote functions. 
-* 
+* ****Voting.t.sol`:****
 
 ## Key Concepts Applied
 * ****Data types:**** Defines the exact nature of data to be stored, ensuring the blockchain knows how to handle, compute, and store it efficiently.
