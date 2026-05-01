@@ -1,4 +1,4 @@
-# Simple Voting Smart Contract
+# 🗳️ Simple Voting Smart Contract
 
 ## Project Overview
 A decentralized voting smart contract that allows candidates to be registered, votes to be cast. Where:
@@ -10,6 +10,8 @@ A decentralized voting smart contract that allows candidates to be registered, v
 * ****`Voting.sol`:**** Core contract implementing addCandidate and vote functions. 
 * ****`Voting.t.sol`:**** Unit Test (suite) containing tests to validate contract functionalities.
 
+##  📌 Features
+
 ## 🧠 Key Concepts Applied
 * ****Data types:**** Defines the exact nature of data to be stored, ensuring the blockchain knows how to handle, compute, and store it efficiently.
 * ****Mapping:**** For tracking who has votered using the address and also using their Id.
@@ -19,8 +21,7 @@ A decentralized voting smart contract that allows candidates to be registered, v
 * ****public:****  Managed and executed tasks using public visibility specifier.
 * ****msg.sender:**** Recording who owns funds(e.g the owner).
 
-## <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/e1865031-632f-4cdb-876b-fe030e458a58" />
-Technology Stack (Technologies Used)
+## Technology Stack (Technologies Used)
 * ****Solidity**** - The programming language for writing the Smart contracts.
 * ****RemixIDE:**** - used it to write, and deploy the smart contract directly in the browser first. A fastest way to get started, acting as a "no-setup" workshop for smart contract development. 
 * ****Foundry(forge, cast, anvil)**** - Development framework and testing suite
