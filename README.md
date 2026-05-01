@@ -23,7 +23,7 @@ A decentralized voting smart contract that allows candidates to be registered, v
 
 ## Technology Stack (Technologies Used)
 * ****Solidity**** - The programming language for writing the Smart contracts.
-* 
+* ****RemixIDE:**** - used it to write, and deploy the smart contract directly in the browser first. A fastest way to get started, acting as a "no-setup" workshop for smart contract development. 
 * ****Foundry(forge, cast, anvil)**** - Development framework and testing suite
 
 
