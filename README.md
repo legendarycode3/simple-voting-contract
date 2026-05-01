@@ -35,7 +35,7 @@ A decentralized voting smart contract that allows candidates to be registered, v
 ###  Variables:
 * ****`i_owner`****: Immutable variable storing the owner’s address.
 * ****`candidatesCount`****: Variable that tracks the total number of candidates registered in the contract.
-* ****`voters`****: 
+* ****`voters`****: Variable that tracks who has voted.
 
 ## Foundry
 
