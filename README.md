@@ -10,7 +10,7 @@ A decentralized voting smart contract that allows candidates to be registered, v
 * ****`Voting.sol`:**** Core contract implementing addCandidate and vote functions. 
 * ****`Voting.t.sol`:**** Unit Test (suite) containing tests to validate contract functionalities.
 
-## Key Concepts Applied
+## 🧠 Key Concepts Applied
 * ****Data types:**** Defines the exact nature of data to be stored, ensuring the blockchain knows how to handle, compute, and store it efficiently.
 * ****Mapping:**** For tracking who has votered using the address and also using their Id.
 * ****Struct:**** Sets the user or voter details in one collection.
