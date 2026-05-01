@@ -26,6 +26,7 @@ A decentralized voting smart contract that allows candidates to be registered, v
 
 ## Getting Started
 ### Prerequisites
+* Solidity Compiler, Version ^0.8.18 or higher.
 
 ## Usage
 
