@@ -21,6 +21,8 @@ A decentralized voting smart contract that allows candidates to be registered, v
 * ****public:****  Managed and executed tasks using public visibility specifier.
 * ****msg.sender:**** Recording who owns funds(e.g the owner).
 
+## Technology Stack (Technologies Used)
+
 
 
 ## Foundry
