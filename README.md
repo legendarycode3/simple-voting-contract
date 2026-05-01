@@ -55,7 +55,7 @@ A decentralized voting smart contract that allows candidates to be registered, v
   ```
 
 ### Testing the contract ((Using Foundry Development Kit )
-
+Runing all tests:
    
   
 
