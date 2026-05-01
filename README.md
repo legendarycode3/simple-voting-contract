@@ -95,7 +95,7 @@ Runing specific test:
 ## Why This Matters (Voting Smart Contract)
 Voting smart contracts are crucial in the Web3 blockchain ecosystem because they:
 1. Replace centralized, trust-based decision-making with decentralized, automated, and tamper-proof governance.
-2. Enable Decentralized Autonomous Organizations (DAOs) and blockchain protocols to operate without intermediaries, allowing token
+2. Enable Decentralized Autonomous Organizations (DAOs) and blockchain protocols to operate without intermediaries, allowing token Decentralized Autonomous Organizations (DAOs) and blockchain protocols to operate without intermediaries, allowing token holders to directly influence protocol developments, funding, and rule changes.
 
 
 ## Foundry
