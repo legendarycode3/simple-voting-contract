@@ -3,10 +3,11 @@
 ## Project Overview
 A decentralized voting smart contract that allows candidates to be registered, votes to be cast. Where:
 * Any user can register as a voter.
-* Voters can vote once per proposal.
+* Voters can vote once per voters cast.
 * Voters data and voting status and results are tracked transparently off-chain(using event) and on-chain.
 
 ## Project Structure
+* ****`Voting.sol`:****
 
 ## Key Concepts Applied
 * ****Data types:**** Defines the exact nature of data to be stored, ensuring the blockchain knows how to handle, compute, and store it efficiently.
