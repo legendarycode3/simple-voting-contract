@@ -7,7 +7,8 @@
 * ****addCandidate(string memory name):**** function that registers new candidates.
 * ****vote(uint _candidateId):**** Ensures that voters can only vote once and that votes are cast for valid candidates.
 * ****Event logs:****  For tracking key user operation . A off-chain communication tool mechanism to record that something significant happened.
-* ****public visibility specifier:****  Managed and executed tasks using public specifier.
+* ****public:****  Managed and executed tasks using public visibility specifier.
+* ****msg.sender:****
 
 
 ## Foundry
