@@ -87,7 +87,9 @@ Runing specific test:
 * ****`candidates`****:  Variable that tracks who has voted by ID.
 
 ## Usage Guide (How it works) & Why this Voting Contract Matters 
-1. ****Deployment****: Compile and deploy the VotingSystem contract (deployer becomes owner). 
+1. ****Compile****: Compile the contract.
+2. ****Deployment****: Add candidates using addCandidate("Name") represented in an array format and  deploy the VotingSystem contract (deployer becomes owner). You can only deploy only when you added atleast a name , which is specified on the contructor which must run first .
+3. 
 
 ## Foundry
 
