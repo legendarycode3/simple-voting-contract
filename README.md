@@ -41,6 +41,9 @@ A decentralized voting smart contract that allows candidates to be registered, v
 
 ### Building the Project (Using Foundry Development Kit) - only if you are good using foundry kit
 1. Clone the repository:
+   ```shell
+    git clone https://github.com/legendarycode3/simple-voting-contract 
+  ``` 
 
 
 ## 📋Contract Details
