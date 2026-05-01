@@ -89,7 +89,8 @@ Runing specific test:
 ## Usage Guide (How it works) & Why this Voting Contract Matters 
 1. ****Compile****: Compile the contract.
 2. ****Deployment****: Add candidates using addCandidate("Name") represented in an array format and  deploy the VotingSystem contract (deployer becomes owner). You can only deploy only when you added atleast a name , which is specified on the contructor which must run first .
-3. ****Voting****:
+3. ****Voting****:  Users call vote(candidateId) to cast their vote. Each address can vote only once.
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
