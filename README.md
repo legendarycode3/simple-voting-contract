@@ -49,12 +49,12 @@ A decentralized voting smart contract that allows candidates to be registered, v
     cd simple-voting-contract 
   ```
  
-2. Compile the smart contract:
+2. Compile the smart contract: </br>
      ```shell
     forge build
   ```
 
-### Testing the contract ((Using Foundry Development Kit )
+### Testing the contract (Using Foundry Development Kit ) </br>
 
 Runing all tests:
    ```shell
