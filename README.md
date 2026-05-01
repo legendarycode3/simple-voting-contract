@@ -6,7 +6,7 @@ A decentralized voting smart contract that allows candidates to be registered, v
 * Voters can vote once per voters cast.
 * Voters data and voting status and results are tracked transparently off-chain(using event) and on-chain.
 
-## Project Structure
+## 📂 Project Structure (Files)
 * ****`Voting.sol`:**** Core contract implementing addCandidate and vote functions. 
 * ****`Voting.t.sol`:**** Unit Test (suite) containing tests to validate contract functionalities.
 
