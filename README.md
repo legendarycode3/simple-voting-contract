@@ -22,6 +22,7 @@ A decentralized voting smart contract that allows candidates to be registered, v
 * ****msg.sender:**** Recording who owns funds(e.g the owner).
 
 ## Technology Stack (Technologies Used)
+* ****Solidity**** - The programming language for writing the Smart contracts.
 
 
 
