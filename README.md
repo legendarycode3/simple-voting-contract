@@ -44,11 +44,14 @@ A decentralized voting smart contract that allows candidates to be registered, v
    ```shell
     git clone https://github.com/legendarycode3/simple-voting-contract 
   ```
-  and then,
-    `cd simple-voting-contract` 
+2. Navigate to the directory you created and cloned the file to:
+    ```shell
+   cd simple-voting-contract
+  ```
+     
 
  
-2. Compile the smart contract: </br>
+3. Compile the smart contract: </br>
      ```shell
     forge build
   ```
