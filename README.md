@@ -1,8 +1,10 @@
 # Simple Voting Smart Contract
 
 ## Key Concepts Applied
+* ****Constructor:**** 
 * ****Mapping:**** For tracking who has votered using the address.
 * ****Struct:**** Sets the user or voter details in one collection.
+
 
 ## Foundry
 
