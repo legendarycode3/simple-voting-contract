@@ -9,6 +9,7 @@ A decentralized voting smart contract that allows candidates to be registered, v
 ##  📌 Features
 * ****Candidate Registration:**** Only the owner can add candidates.
 * ****Secure Voting:**** Prevents double voting using address tracking.
+* ****Results Transparency:****  
 
 ## 🧠 Key Concepts Applied
 * ****Data types:**** Defines the exact nature of data to be stored, ensuring the blockchain knows how to handle, compute, and store it efficiently.
