@@ -25,6 +25,7 @@ A decentralized voting smart contract that allows candidates to be registered, v
 * ****Foundry(forge, cast, anvil)**** - Development framework and testing suite
 
 ## Getting Started
+### Prerequisites
 
 ## Usage
 
