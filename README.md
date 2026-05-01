@@ -19,7 +19,8 @@ A decentralized voting smart contract that allows candidates to be registered, v
 * ****public:****  Managed and executed tasks using public visibility specifier.
 * ****msg.sender:**** Recording who owns funds(e.g the owner).
 
-## Technology Stack (Technologies Used)
+## <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/e1865031-632f-4cdb-876b-fe030e458a58" />
+Technology Stack (Technologies Used)
 * ****Solidity**** - The programming language for writing the Smart contracts.
 * ****RemixIDE:**** - used it to write, and deploy the smart contract directly in the browser first. A fastest way to get started, acting as a "no-setup" workshop for smart contract development. 
 * ****Foundry(forge, cast, anvil)**** - Development framework and testing suite
@@ -116,14 +117,10 @@ $ forge fmt
 ```shell
 $ forge snapshot
 
-### Help
 
-```shell
-$ forge --help
-```
 
 ## Author
-Built with ❤️ by @legendarycode3
+Built with ❤️ by @legendarycode3 </br>
 Part of my  `60 Days of Solidity Challenge`
 
 ## 🤲 If you find this project helpful, please give it a star and link back to this repository.
