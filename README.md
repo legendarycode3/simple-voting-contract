@@ -1,6 +1,7 @@
 # Simple Voting Smart Contract
 
 ## Project Overview
+A decentralized voting smart contract where:
 
 ## Project Structure
 
