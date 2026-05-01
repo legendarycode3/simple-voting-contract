@@ -48,6 +48,10 @@ A decentralized voting smart contract that allows candidates to be registered, v
       cd simple-voting-contract 
   ```
 2. Compile the smart contract:
+     ```shell
+    forge build
+  ```
+   
   
 
 
